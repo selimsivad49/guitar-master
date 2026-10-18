@@ -1,5 +1,16 @@
 # Guitar Master
 
+<!-- Keep these links. Translations will automatically update with the README. -->
+[Deutsch](https://zdoc.app/de/selimsivad49/guitar-master) | 
+[English](https://zdoc.app/en/selimsivad49/guitar-master) | 
+[Español](https://zdoc.app/es/selimsivad49/guitar-master) | 
+[français](https://zdoc.app/fr/selimsivad49/guitar-master) | 
+[日本語](https://zdoc.app/ja/selimsivad49/guitar-master) | 
+[한국어](https://zdoc.app/ko/selimsivad49/guitar-master) | 
+[Português](https://zdoc.app/pt/selimsivad49/guitar-master) | 
+[Русский](https://zdoc.app/ru/selimsivad49/guitar-master) | 
+[中文](https://zdoc.app/zh/selimsivad49/guitar-master)
+
 アコースティックギター初心者のための、個人用の練習ノートです。
 React / TypeScript / Viteで実装したWebアプリで、PWAとしてオフライン利用できる構成です。
 
